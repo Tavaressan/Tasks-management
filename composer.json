@@ -1,0 +1,17 @@
+{
+    "name": "backend/tasks",
+    "description": "this is a backend project for tasks management",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Backend\\Tasks\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tavaressan",
+            "email": "vitortctavares@gmail.com"
+        }
+    ],
+    "require": {}
+}
